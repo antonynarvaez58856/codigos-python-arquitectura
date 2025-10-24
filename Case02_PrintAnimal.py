@@ -1,0 +1,5 @@
+print("     /\\_/\\      ---- ")
+print("    ( , , )   / Hola \\ ")
+print("    (  -  )  <  Meca  |")
+print("     | | |    \\ Code / ")
+print("    (__|__)     ---- ")
